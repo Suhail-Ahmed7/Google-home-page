@@ -1,0 +1,135 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.logo {
+  position: relative;
+  top: 100px;
+  left: 64vh;
+  forced-color-adjust: none;
+  height: 92px;
+  width: 272px;
+}
+
+.gmail-link {
+  display: inline-block;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: grey;
+  position: relative;
+  top: -55px;
+  left: 86vw;
+}
+
+.gmail-link:hover {
+  text-decoration: underline;
+}
+
+.images-link {
+  display: inline-block;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: gray;
+  position: relative;
+  top: -55px;
+  left: 87vw;
+}
+.images-link:hover {
+  text-decoration: underline;
+}
+
+.google-apps-icon {
+  height: 30px;
+  width: 30px;
+  display: inline-block;
+  color: gray;
+  position: relative;
+  top: -45px;
+  left: 88vw;
+}
+
+.search-bar {
+  padding: 1px 87px 1px 52px;
+  background-color: white;
+  font-size: inherit;
+  width: 400px;
+  height: 35px;
+  border: 2px solid black;
+  border-radius: 20px;
+  display: inline-block;
+  position: relative;
+  margin: 0;
+  left: 390px;
+  top: 155px;
+  
+}
+
+.search-icon {
+  height: 24px;
+  width: 24px;
+  font-size: 16px;
+  position: relative;
+  left: -10px;
+  top: 192px;
+  z-index: 1;
+}
+
+.mic-icon {
+  height: 35px;
+  width: 35px;
+  position: relative;
+  top: 197px;
+  left: 400px;
+  z-index: 1;
+}
+
+.lens-icon {
+    height: 35px;
+    width: 35px;
+    position: relative;
+    top: 197px;
+    left: 400px;
+    z-index: 1;
+}
+
+.customize-icon{
+    height: 70px;
+    width: 70px;
+    position: relative;
+    bottom: -390px;
+    left: 75vw;
+}
+
+.goole-search {
+    position: relative;
+    left: 77vh;
+    top: 120px;
+    height: 30px;
+    width: 120px;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+    transition: all 0.3s ease-in;
+}
+
+.goole-search:hover{
+    background-color: black;
+    color: white;
+}
+.rand-Text {
+    position: relative;
+    left: 86vh;
+    top: 120px;
+    height: 30px;
+    width: 120px;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+    transition: all 0.3s ease-in;
+}
+     
+.rand-Text:hover {
+    background-color: black;
+    color: white;
+}
